@@ -23,10 +23,11 @@ nav{
     margin: 0 auto;
     align-items: center;
 }
+
 .nav-btn{
     padding: 18px 35px; 
     border-radius: 6px;
-    color: rgb(0, 106, 80);
+    color:  rgb(0, 106, 80);
     font-weight: 700;
     border: 1px solid; 
     font-size: 13px;
@@ -510,9 +511,32 @@ nav{
 .first-p{
     margin-top: 10px;
 }
+/* footer */
 
+.f-heading{
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding: 25px;
+    margin-bottom: 1px;
+}
 
+.footer-pic{
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    flex-direction: row;
+    padding: 25px;
+    margin-left: 43%;
+}
 
+.footer{
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+
+}
 
 
 
