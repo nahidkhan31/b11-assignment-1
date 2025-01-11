@@ -212,3 +212,312 @@ nav{
 .vission-card img{
     margin-bottom: 20px;
 }
+
+/* younus */
+
+.younus-p{
+    font-size: 20px;
+    margin-bottom: 20px;
+    opacity: 60%;
+}
+.younus-1{
+    background-color: rgb(254, 248, 248);
+    margin: 5px;
+    padding: 10px 20px;
+    border-radius: 16px;
+}
+.younus-2{
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    position: top left;
+}
+.younus{
+    margin-top: 25px;
+    padding: 5px;
+}
+.younus-2 p{
+    font-size: 15px;
+    font-weight: small;
+    opacity: 70%;
+}
+.younus-3{
+    padding-top: 25px;
+}
+
+
+/* setelaite */
+
+/* .box-model{
+    background-color: rgb(245, 236, 236);
+    padding: 15px;
+    margin: 1px solid;
+    border-radius: 5px;
+} */
+
+
+.sec-head{
+    /* background-color: rgb(250, 239, 239);
+    border-radius: 10px; */
+}
+
+.sec-h1{
+    font-size: 30px;
+    padding: 5px;
+}
+.sec-p{
+    font-size: small;
+    font-weight: 400;
+    padding: 5px;
+    color: black;
+    margin-bottom: 5px;
+}
+.slt-head{
+    border-radius: 10px;
+    background-color: white;
+    margin: 0 auto; 
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.setalite{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 20px;
+    background-color: white;
+    height: 80%;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+
+
+.setalite-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 20px;
+    background-color: white;
+    height: 80%;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+
+.setalite-3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 20px;
+    background-color: white;
+    height: 80%;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+
+.main{
+    background-color: rgb(247, 242, 242);
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.slt-img img{
+    width: 300px;
+    height: 250;
+    padding: 10px;
+    border-radius: 30px;
+    align-items: center;
+    margin-top: 14px;
+}
+.slt-h{
+    font-size: 400;
+    font-weight: bolder;
+    text-align: left;
+}
+.slt-hd{
+    margin-top: 20px;
+    padding: 15px;
+}
+.time{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    font-size: small;
+    opacity: 70%;
+    margin-top: 0px auto;
+}
+.slt-hd p{
+    font-size: 15px;
+    font-weight: 400;
+    opacity: 70%;
+    color: black; 
+    margin-top: 7px;
+}
+.slt-btn{
+    padding: 10px 15px; 
+    border-radius: 6px;
+    background-color: rgb(0, 106, 80);
+    color: white;
+    font-weight: 700;
+    border: 1px solid; 
+    font-size: 13px;  
+    margin-top: 15px;
+}
+
+.solid{
+    background-color: rgb(247, 242, 242);
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.solid h1{
+     text-align: center;
+     font-size: 25px;
+     font-weight: bold;
+     padding: 10px;
+     
+}
+
+.solid p{
+    text-align: center;
+    font-size: large;
+    font-weight: 400;
+    padding: 5px;
+}
+.all-button button{
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 20px 30px 20px 30px;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: black;
+}
+.all-button{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 10px;
+}
+.button-1:hover{
+    background-color: aquamarine;
+}
+.button-2:hover{
+    background-color: aquamarine;
+}
+.button-3:hover{
+    background-color: aquamarine;
+}
+.button-4:hover{
+    background-color: aquamarine;
+}
+
+.form{
+    text-align: center;
+    margin: 10px;
+    font-size: large;
+    font-weight: 400;
+    
+}
+.input{
+    width: 70%;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+}
+.input-btn{
+    padding: 10px 15px; 
+    border-radius: 6px;
+    background-color: rgb(0, 106, 80);
+    color: white;
+    font-weight: 700;
+    border: 1px solid; 
+    font-size: 13px;  
+    margin-top: 15px;
+    text-align: center;
+    align-items: center;
+    margin-left: 580px;
+}
+
+.subscribe{
+    background: rgb(198, 228, 214);
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.subscribe h1{
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 070px;
+}
+.subscribe p{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin: 10px;
+    font-size: large;
+    font-weight: 400;
+    width: 70%;
+    height: 50px;
+}
+ .input-2{
+    width: 70%;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 400px;
+}
+.input-btn-1{
+    width: 70%;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 240px;
+    padding: 10px 15px; 
+    border-radius: 0px 6px 6px 0px;
+    background-color: rgb(0, 106, 80);
+    color: white;
+    font-weight: 700;
+    border: 1px solid; 
+    font-size: 13px;  
+} 
+.last-p{
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+.first-p{
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
